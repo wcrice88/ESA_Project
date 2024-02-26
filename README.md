@@ -1,0 +1,1 @@
+The code is no longer active, but this is an example of some research analysis work I completed during my undergraduate studies for a topic I was interested in, using regressiona analysis and R Studio.
